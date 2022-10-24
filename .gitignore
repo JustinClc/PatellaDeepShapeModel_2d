@@ -1,0 +1,8 @@
+data/most_annotation_mask_0m_1500/
+.ipynb_checkpoints/
+__pycache__/
+contour/*
+database_extraction/
+logs/
+trained_models/*
+most_annotation_mask/
